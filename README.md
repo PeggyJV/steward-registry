@@ -25,4 +25,4 @@ my_validator_name/
 
 ### Explanation
 
-The `ca_hosted` and `ca` fields must point to two copies of the *same file*. This provides a means of ensuring that you own the domain in question.
+The `ca_hosted` and `ca` fields must point to two copies of the *same file*, one hosted at your domain, one hosted in this repo. This provides a means of ensuring that you own the domain in question.
