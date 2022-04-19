@@ -1,6 +1,6 @@
-# steward-authorities
+# Steward Registry
 
-This is a temporary registry for recording Validator's Steward information needed by Strategy Provider clients to establish a secure connection. 
+This is a temporary registry for recording Sommelier Validators' Steward information needed by Strategy Provider clients to establish a secure connection. 
 
 ## Registration
 
@@ -13,11 +13,11 @@ my_validator_name/
     server_ca.crt
 ```
 
-2. Append the following JSON object to the list inside of `steward_infos.json` with your information:
+2. Append the following JSON object to the list inside of `stewards.json` with your information:
 
 ```json
 {
-    "steward_endpoint": "https://steward.mydomain.com:5784",
+    "endpoint": "https://steward.mydomain.com:5784",
     "ca": "my_validator_name/server_ca.crt"
 }
 ```
