@@ -17,7 +17,12 @@ my_validator_name/
 
 ```json
 {
-    "endpoint": "https://steward.mydomain.com:5784",
-    "ca": "my_validator_name/server_ca.crt"
+    "ca": "my_validator_name/server_ca.crt",
+    "ca_hosted": "https://steward.mydomain.com/server_ca.crt",
+    "endpoint": "https://steward.mydomain.com:5784"
 }
 ```
+
+### Explanation
+
+The `ca_hosted` and `ca` fields must point to two copies of the *same file*. This provides a means of ensuring that you own the domain in question.
