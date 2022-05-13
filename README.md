@@ -19,7 +19,7 @@ my_validator_name/
 {
     "ca": "my_validator_name/server_ca.crt",
     "ca_hosted": "https://steward.mydomain.com/server_ca.crt",
-    "endpoint": "https://steward.mydomain.com:5784"
+    "endpoint": "https://steward.mydomain.com:5734"
 }
 ```
 
