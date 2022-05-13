@@ -1,7 +1,6 @@
 [
     {
         "ca": "standard_crypto/server_ca.crt",
-        "ca_hosted": "https://steward.sommelier.standardcryptovc.com/server_ca.crt",
         "endpoint": "https://steward.sommelier.standardcryptovc.com:5734"
     }
 ]
