@@ -1,6 +1,6 @@
 [
     {
         "ca": "lavender_five/server_ca.crt",
-        "endpoint": "https://rpc.sommelier.circlewithadot.net:13657"
+        "endpoint": "https://rpc.sommelier.circlewithadot.net:5734"
     }
 ]
