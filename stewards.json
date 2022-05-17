@@ -1,6 +1,6 @@
 [
     {
-        "ca": "standard_crypto/server_ca.crt",
-        "endpoint": "https://steward.sommelier.standardcryptovc.com:5734"
+        "ca": "lavender_five/server_ca.crt",
+        "endpoint": "https://rpc.sommelier.circlewithadot.net:13657"
     }
 ]
