@@ -6,5 +6,5 @@
     {
         "ca": "rockaway_staking/server_ca.crt",
         "endpoint": "https://steward-01.rbf.systems:5734"
-    },
+    }
 ]
