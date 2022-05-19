@@ -2,5 +2,9 @@
     {
         "ca": "standard_crypto/server_ca.crt",
         "endpoint": "https://steward.sommelier.standardcryptovc.com:5734"
+    },
+    {
+        "ca": "rockaway_staking/server_ca.crt",
+        "endpoint": "https://steward-01.rbf.systems:5734"
     }
 ]
