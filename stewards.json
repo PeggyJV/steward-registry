@@ -10,5 +10,9 @@
     {
         "ca": "rockaway_staking/server_ca.crt",
         "endpoint": "https://steward-01.rbf.systems:5734"
+    },
+    {
+        "ca": "lavender_five/server_ca.crt",
+        "endpoint": "https://rpc.sommelier.circlewithadot.net:5734"
     }
 ]
