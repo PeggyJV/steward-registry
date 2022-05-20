@@ -10,5 +10,9 @@
     {
         "ca": "rockaway_staking/server_ca.crt",
         "endpoint": "https://steward-01.rbf.systems:5734"
+    },
+    {
+        "ca": "blockscape/server_ca.crt",
+        "endpoint": "https://steward.blockscape.network:5734"
     }
 ]
