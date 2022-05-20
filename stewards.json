@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "ca": "forbole/server_ca.crt",
+        "endpoint": "https://steward.sommelier.forbole.com:5734"
+    }
+]
