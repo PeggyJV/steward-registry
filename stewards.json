@@ -14,5 +14,9 @@
     {
         "ca": "blockscape/server_ca.crt",
         "endpoint": "https://steward.blockscape.network:5734"
-    }
+    },
+    {
+        "ca": "teku/server_ca.crt",
+        "endpoint": "https://sommelier.teku.network:5734"
+    }        
 ]
