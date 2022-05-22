@@ -14,5 +14,9 @@
     {
         "ca": "blockscape/server_ca.crt",
         "endpoint": "https://steward.blockscape.network:5734"
+    },
+    {
+        "ca": "forbole/server_ca.crt",
+        "endpoint": "https://steward.sommelier.forbole.com:5734"
     }
 ]
