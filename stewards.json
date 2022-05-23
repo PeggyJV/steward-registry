@@ -18,5 +18,5 @@
     {
         "ca": "simply_staking/server_ca.crt",
         "endpoint": "https://sommelier-steward.simply-vc.com.mt:5734"
-    },
+    }
 ]
