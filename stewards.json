@@ -22,5 +22,9 @@
     {
         "ca": "pupmos/server_ca.crt",
         "endpoint": "https://steward.sommelier.pupmos.network:5734"
+    },
+    {
+        "ca": "lavender_five/server_ca.crt",
+        "endpoint": "https://rpc.sommelier.circlewithadot.net:5734"
     }
 ]
