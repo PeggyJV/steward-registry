@@ -26,5 +26,9 @@
     {
         "ca": "lavender_five/server_ca.crt",
         "endpoint": "https://rpc.sommelier.circlewithadot.net:5734"
-    }
+    },
+    {
+    "ca": "stakecito/server_ca.crt",
+    "endpoint": "https://steward.stakesandstone.com:5734"
+}
 ]
