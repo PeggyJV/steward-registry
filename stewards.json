@@ -26,5 +26,9 @@
     {
         "ca": "lavender_five/server_ca.crt",
         "endpoint": "https://rpc.sommelier.circlewithadot.net:5734"
+    },
+    {
+        "ca": "polkachu.com/server_ca.crt",
+        "endpoint": "https://steward.polkachu.com:5734"
     }
 ]
