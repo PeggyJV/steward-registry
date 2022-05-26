@@ -30,5 +30,9 @@
     {
         "ca": "polkachu.com/server_ca.crt",
         "endpoint": "https://steward.polkachu.com:5734"
+    },
+    {
+        "ca": "stakecito/server_ca.crt",
+        "endpoint": "https://steward.stakesandstone.com:5734"
     }
 ]
