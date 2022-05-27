@@ -34,5 +34,9 @@
     {
         "ca": "stakecito/server_ca.crt",
         "endpoint": "https://steward.stakesandstone.com:5734"
+    },
+    {
+        "ca": "chorus_one/server_ca.crt",
+        "endpoint": "https://sommelier-steward.chorus.one:443"
     }
 ]
