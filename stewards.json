@@ -54,5 +54,9 @@
     {
         "ca": "boubounode/server_ca.crt",
         "endpoint": "https://sommelier-steward.boubounode.com:5734"
+    },
+    {
+        "ca": "sleepykitten/server_ca.crt",
+        "endpoint": "https://steward.sommelier.sleepykitten.info:5734"
     }
 ]
