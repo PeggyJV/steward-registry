@@ -55,4 +55,8 @@
         "ca": "boubounode/server_ca.crt",
         "endpoint": "https://sommelier-steward.boubounode.com:5734"
     }
+    {
+        "ca": "everstake/server_ca.crt",
+        "endpoint": "https://sommelier-steward.everstake.one:5734"
+    }
 ]
