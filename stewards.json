@@ -62,5 +62,9 @@
     {
         "ca": "everstake/server_ca.crt",
         "endpoint": "https://sommelier-steward.everstake.one:5734"
+    },
+    {
+        "ca": "tessellated_geometry/server_ca.crt",
+        "endpoint": "https://sommelier.tessageo.com:5734"
     }
 ]
