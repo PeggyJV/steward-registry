@@ -67,4 +67,9 @@
         "ca": "tessellated_geometry/server_ca.crt",
         "endpoint": "https://sommelier.tessageo.com:5734"
     }
+    ,
+    {
+        "ca": "ztake_org/server_ca.crt",
+        "endpoint": "https://sommelier.ztake.org:5734"
+    }
 ]
