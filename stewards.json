@@ -72,7 +72,7 @@
         "endpoint": "https://sommelier.ztake.org:5734"
     },
     {
-        "ca": "two-buck-chuck/server_ca.crt",
+        "ca": "two_buck_chuck/server_ca.crt",
         "endpoint": "https://tastings.two-buck-chuck.xyz:5734"
     }
 ]
