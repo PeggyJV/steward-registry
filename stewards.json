@@ -74,5 +74,9 @@
     {
         "ca": "two_buck_chuck/server_ca.crt",
         "endpoint": "https://tastings.two-buck-chuck.xyz:5734"
+    },
+    {
+        "ca": "cosmostation/server_ca.crt",
+        "endpoint": "https://steward.sommelier.cosmostation.io:5734"
     }
 ]
