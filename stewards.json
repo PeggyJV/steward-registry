@@ -89,6 +89,6 @@
     },
     {
         "ca": "chill_validation/server_ca.crt",
-        "endpoint": "https://steward0.chillvalidation.com:5784"
+        "endpoint": "https://steward0.chillvalidation.com:5734"
     }
 ]
