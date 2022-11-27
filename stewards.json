@@ -86,5 +86,9 @@
     {
         "ca": "polychain/server_ca.crt",
         "endpoint": "https://steward.sommelier.unit410.com:5734"
+    },
+    {
+        "ca": "KingSuper/server_ca.crt",
+        "endpoint": "https://kingsuper.services:5734"
     }
 ]
