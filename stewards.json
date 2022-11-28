@@ -89,6 +89,6 @@
     },
     {
         "ca": "KingSuper/server_ca.crt",
-        "endpoint": "https://kingsuper.services:5734"
+        "endpoint": "https://sommelier-steward.kingsuper.services:5734"
     }
 ]
