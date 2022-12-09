@@ -90,5 +90,13 @@
     {
         "ca": "KingSuper/server_ca.crt",
         "endpoint": "https://sommelier-steward.kingsuper.services:5734"
+    },
+    {
+        "ca": "chill_validation/server_ca.crt",
+        "endpoint": "https://steward0.chillvalidation.com:5734"
+    },
+    {
+        "ca": "chainnodes/server_ca.crt",
+        "endpoint": "https://steward.chainnodes.net:5734"
     }
 ]
