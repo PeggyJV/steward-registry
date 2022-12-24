@@ -41,7 +41,7 @@
     },
     {
         "ca": "imperator/server_ca.crt",
-        "endpoint": "https://steward.imperator.co:5734"
+        "endpoint": "https://steward.imperator.co:30812"
     },
     {
         "ca": "teku/server_ca.crt",
