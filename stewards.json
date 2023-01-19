@@ -98,5 +98,9 @@
     {
         "ca": "chainnodes/server_ca.crt",
         "endpoint": "https://steward.chainnodes.net:5734"
+    },
+    {
+        "ca": "QuantaTech/server_ca.crt",
+        "endpoint": "https://steward.quantatech.space:5734"
     }
 ]
