@@ -101,6 +101,6 @@
     },
     {
         "ca": "QuantaTech/server_ca.crt",
-        "endpoint": "https://steward.quantatech.space:5734"
+        "endpoint": "https://quantatech.space:5734"
     }
 ]
