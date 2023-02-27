@@ -102,5 +102,9 @@
     {
         "ca": "7_seas/server_ca.crt",
         "endpoint": "https://steward.sommelier.7seas.capital:5734"
+    },
+    {
+        "ca": "freshstaking/server_ca.crt",
+        "endpoint": "https://somm-steward.mitera.net:5734"
     }
 ]
