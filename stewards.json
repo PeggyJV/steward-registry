@@ -106,5 +106,9 @@
     {
         "ca": "freshstaking/server_ca.crt",
         "endpoint": "https://somm-steward.mitera.net:5734"
+    },
+    {
+        "ca": "meria/server_ca.crt",
+        "endpoint": "https://sommelier.meria.com:5734"
     }
 ]
