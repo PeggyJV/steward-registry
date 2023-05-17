@@ -25,7 +25,7 @@
     },
     {
         "ca": "lavender_five/server_ca.crt",
-        "endpoint": "https://steward.lavenderfive.com:5734"
+        "endpoint": "https://steward.lavenderfive.com:443"
     },
     {
         "ca": "polkachu.com/server_ca.crt",
