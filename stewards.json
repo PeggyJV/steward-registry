@@ -114,5 +114,9 @@
     {
         "ca": "kleomedes/server_ca.crt",
         "endpoint": "https://steward.kleomedes.network:5734"
+    },
+    {
+        "ca": "cryptocrew_validators/server_ca.crt",
+        "endpoint": "https://steward-somm.ccvalidators.com:5734"
     }
 ]
