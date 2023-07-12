@@ -118,5 +118,9 @@
     {
         "ca": "cryptocrew_validators/server_ca.crt",
         "endpoint": "https://steward-somm.ccvalidators.com:5734"
+    },
+    {
+        "ca": "made_in_block/server_ca.crt",
+        "endpoint": "https://somm-steward.mib.tech:5734"
     }
 ]
