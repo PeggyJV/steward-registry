@@ -122,5 +122,9 @@
     {
         "ca": "made_in_block/server_ca.crt",
         "endpoint": "https://somm-steward.mib.tech:5734"
+    },
+    {
+        "ca": "Golden_Ratio_Staking/server_ca.crt",
+        "endpoint": "https://sommelier.goldenratiostaking.net:5734"
     }
 ]
