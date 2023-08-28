@@ -77,7 +77,7 @@
     },
     {
         "ca": "cosmostation/server_ca.crt",
-        "endpoint": "https://steward.sommelier.cosmostation.io:5734"
+        "endpoint": "https://steward.sommelier.cosmostation.io:15413"
     },
     {
         "ca": "MCB/server_ca.crt",
