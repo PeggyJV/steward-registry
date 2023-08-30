@@ -126,5 +126,9 @@
     {
         "ca": "Golden_Ratio_Staking/server_ca.crt",
         "endpoint": "https://sommelier.goldenratiostaking.net:5734"
-    }
+    },
+    {
+        "ca": "frenchchocolatine/server_ca.crt",
+        "endpoint": "https://sommelier.frenchchocolatine.com:5734"
+    },
 ]
