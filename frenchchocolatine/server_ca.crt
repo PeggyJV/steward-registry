@@ -1,0 +1,16 @@
+  GNU nano 6.2                                                                                     server_ca.crt                                                                                               
+-----BEGIN CERTIFICATE-----
+MIICYjCCAeigAwIBAgIUXFbtefdxA1Iiv/MyYZODseX/AP4wCgYIKoZIzj0EAwMw
+aDELMAkGA1UEBhMCRlIxEzARBgNVBAgMClNvbWUtU3RhdGUxGjAYBgNVBAoMEWZy
+ZW5jaGNob2NvbGF0aW5lMSgwJgYDVQQDDB9zb21tZWxpZXIuZnJlbmNoY2hvY29s
+YXRpbmUuY29tMB4XDTIzMDkxMDE0NDEyOVoXDTI1MDkwOTE0NDEyOVowaDELMAkG
+A1UEBhMCRlIxEzARBgNVBAgMClNvbWUtU3RhdGUxGjAYBgNVBAoMEWZyZW5jaGNo
+b2NvbGF0aW5lMSgwJgYDVQQDDB9zb21tZWxpZXIuZnJlbmNoY2hvY29sYXRpbmUu
+Y29tMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE5z4t7/q0dkwuvX9pV+bgjQbKADed
+iaVpHPTJkfdvYKdokxXh+cIQXqdlObVDf55Cwaj1PnMo3gbSRgpYzbdjdQ72HeYv
++k036fJkxuEk8fELAHhISBr/tPSb8Uc4YHFPo1MwUTAdBgNVHQ4EFgQUxWDtaeP9
+5ja/24RfDVrWeW542bkwHwYDVR0jBBgwFoAUxWDtaeP95ja/24RfDVrWeW542bkw
+DwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAwNoADBlAjEAxW8CtSO2ksGMbagp
+CfxZqZJFoGyksz1NC9AoTE3hjsoK0Mzneyfg6VOnC5+Vc0z8AjBwHDWLkggPUs5f
+GxXeMxoqZLNzIZ1BnMsMTrdId+jQnvzwI1zRBG1NiKvS4RnpIEI=
+-----END CERTIFICATE-----
