@@ -130,5 +130,9 @@
     {
         "ca": "rorcual/server_ca.crt",
         "endpoint": "https://steward.rorcualnodes.com:5734"
+    },
+    {
+        "ca": "frenchchocolatine/server_ca.crt",
+        "endpoint": "https://sommelier.frenchchocolatine.com:5734"
     }
 ]
