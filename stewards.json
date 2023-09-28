@@ -134,5 +134,9 @@
     {
         "ca": "frenchchocolatine/server_ca.crt",
         "endpoint": "https://sommelier.frenchchocolatine.com:5734"
+    },
+    {
+        "ca": "BlockHunters/server_ca.crt",
+        "endpoint": "https://somm.blockhunters.sbs:5734"
     }
 ]
