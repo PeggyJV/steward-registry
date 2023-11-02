@@ -134,5 +134,9 @@
     {
         "ca": "frenchchocolatine/server_ca.crt",
         "endpoint": "https://sommelier.frenchchocolatine.com:5734"
+    },
+    {
+        "ca": "dora_factory/server_ca.crt",
+        "endpoint": "https://sommelier.dorafactory.org:5734"
     }
 ]
